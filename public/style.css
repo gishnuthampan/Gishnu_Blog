@@ -1,0 +1,116 @@
+h1{
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+	background-color: #008080;
+	color: #fff;
+	font-size: 48px;
+	font-weight: bold;
+}
+span{
+	background-color: #ff3300;
+	color:   #003300;
+	border-radius: 10px;
+}
+.log,.sig{
+	float: right;
+	font-size: 20px;
+	border-radius: 4px;
+	color: #000;
+	background-color: #fff;
+	text-decoration: none;
+	padding: 10px 10px;
+}
+#save{
+	font-size: 20px;
+	border-radius: 4px;
+	color: #fff;
+	background-color: #663300;
+	text-decoration: none;	
+}
+.log:hover{
+	background-color:#e6ffff;
+}
+.sig:hover{
+	background-color:#e6ffff;
+}
+.clear{
+	clear: both;
+}
+.log{
+	margin: 10px 20px 0px 20px;
+}
+.sig{
+	margin-top: 10px;
+}
+.para{
+	line-height: 25px;
+	width: 900px;
+	padding-top: 10px;
+}
+.pull-left{
+	font-weight: bold;
+	font-style: italic;
+}
+.sign_form{
+	background-color: #e0e0d1;
+	padding: 10px;
+}
+.signup_h2{
+	padding: 10px 0px 10px 110px;
+	background-color: #85adad;
+}
+.uname{
+	margin-left: 30px;
+	margin-top: 50px;
+}
+.fname{
+	margin-left: 25px;
+	margin-top: 15px;
+}
+.pass{
+	margin-left: 31px;
+	margin-top: 15px;
+}
+.reg{
+	background-color: #0080ff;
+	color: #fff;
+	font-weight: bold;
+}
+.login_h2{
+	padding: 10px 0px 10px 70px;
+	background-color: #85adad;
+}
+.fgt{
+	padding-left: 170px;
+}
+.author{
+	font-style: italic;
+	font-weight: bold;
+}
+.forgot_h2{
+	padding: 10px 0px 10px 70px;
+	background-color: #85adad;
+}
+.reset_h2{
+	padding: 10px 0px 10px 70px;
+	background-color: #85adad;
+}
+footer{
+	background-color: #4d4d4d;
+	text-align: center;
+}
+footer p{
+	color: #fff;
+	font-size: 18px;
+	padding: 20px 0px 20px 0px;
+	margin-top: 20px;
+	display: inline-block;
+}
+.sec{
+	background-color: #fff;
+}
+.glyphicon-edit{
+	display: block;
+	padding-left: 20px;
+}
+
